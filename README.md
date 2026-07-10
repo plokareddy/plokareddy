@@ -33,3 +33,4 @@ I enjoy investigating how attacks happen, analyzing the evidence they leave behi
 </p>
 
 **Security:** Splunk • Microsoft Sentinel • ELK/Kibana • Sysmon • Sigma • Wireshark • Nmap • Nessus • Burp Suite
+**Programming & Scripting:** Python, PowerShell, Bash, JavaScript, SQL
