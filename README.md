@@ -17,6 +17,7 @@ I enjoy investigating how attacks happen, analyzing the evidence they leave behi
 - **Security Tools:** Wireshark, Nmap, Nessus, Burp Suite, tcpdump
 - **Systems & Cloud:** Windows, Linux, PowerShell, AWS, Azure
 - **Frameworks:** MITRE ATT&CK, NIST, CIS Controls, OWASP Top 10
+- **Programming & Scripting:** Python, PowerShell, Bash, JavaScript, SQL
 
 ## 🏆 Certifications & Achievements
 - 🥇 Top 12% — WiCyS SANS CyberQuest 2026 CTF
@@ -33,4 +34,4 @@ I enjoy investigating how attacks happen, analyzing the evidence they leave behi
 </p>
 
 **Security:** Splunk • Microsoft Sentinel • ELK/Kibana • Sysmon • Sigma • Wireshark • Nmap • Nessus • Burp Suite
-**Programming & Scripting:** Python, PowerShell, Bash, JavaScript, SQL
+
