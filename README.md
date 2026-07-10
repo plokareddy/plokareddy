@@ -35,5 +35,14 @@ I enjoy investigating how attacks happen, analyzing the evidence they leave behi
 **Security:** Splunk • Microsoft Sentinel • ELK/Kibana • Sysmon • Sigma • Wireshark • Nmap • Nessus • Burp Suite
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/prishitha-reddy-lokareddy-5262a01a7/
-- 📧 **Email:** prishitha328@gmail.com
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prishitha-reddy-lokareddy-5262a01a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:prishitha328@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
