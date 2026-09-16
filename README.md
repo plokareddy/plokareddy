@@ -7,21 +7,26 @@
 ---
 
 ## 👩‍💻 About Me
-I'm a Computer Science graduate focused on cybersecurity, with hands-on experience through projects in threat detection, Windows event log analysis, detection engineering, Linux security, and web application security.
-Recently, I've become particularly interested in **Detection Engineering** and **Application Security**, while continuing to build my skills in security operations and threat analysis.
-I enjoy investigating how attacks happen, analyzing the evidence they leave behind, and understanding how defenders can detect and respond to suspicious activity.
+I'm a Computer Science graduate focused on cybersecurity, with hands-on experience in security operations, threat detection, detection engineering, Windows event log analysis, and incident investigation.
+
+I've worked with tools including Splunk, Microsoft Sentinel, ELK/Kibana, Sysmon, Wireshark, and Sigma, using them to analyze security events, investigate suspicious activity, develop detection logic, and map attacker behavior to the MITRE ATT&CK framework.
+
+I'm particularly interested in Detection Engineering — understanding attacker behavior, translating that behavior into detections, and improving how security teams identify and respond to threats. I'm currently strengthening my SOC skills through hands-on investigations and the TryHackMe SOC Level 1 path.
 
 ## 🛠️ Technical Skills
-- **Security Operations:** Log Analysis, Alert Triage, Threat Detection, Threat Hunting, Incident Investigation
+- **Security Operations:** Log Analysis, Alert Triage, Threat Detection, Threat Hunting,  Incident Investigation, Incident Response.
 - **SIEM & Detection:** Splunk, Microsoft Sentinel, ELK/Kibana, Sysmon, Sigma
-- **Security Tools:** Wireshark, Nmap, Nessus, Burp Suite, tcpdump
-- **Systems & Cloud:** Windows, Linux, PowerShell, AWS, Azure
-- **Frameworks:** MITRE ATT&CK, NIST, CIS Controls, OWASP Top 10
+- **Network Security & Analysis:** Wireshark, Nmap, Nessus, Burp Suite, tcpdump
+- **Endpoint & Windows Security:** Windows Event Logs,Linux, PowerShell, Sysmon, Active Directory
+- **Security Frameworks:** MITRE ATT&CK, NIST, CIS Controls, OWASP Top 10
+- **Cloud Security:** AWS, Azure
 - **Programming & Scripting:** Python, PowerShell, Bash, JavaScript, SQL
 
 ## 🏆 Certifications & Achievements
 - 🥇 Top 12% — WiCyS SANS CyberQuest 2026 CTF
 - 📜 Google Cybersecurity Professional Certificate
+- 🛡️ TryHackMe — SOC Level 1
+- 🤖 AI Cyber Defense Ops — Cyber Competency Builder
 
 ## 📚 Currently Learning
 - 🛡️ TryHackMe SOC Level 1
@@ -33,5 +38,7 @@ I enjoy investigating how attacks happen, analyzing the evidence they leave behi
   <img src="https://skillicons.dev/icons?i=linux,windows,powershell,aws,azure,docker,git,github" />
 </p>
 
-**Security:** Splunk • Microsoft Sentinel • ELK/Kibana • Sysmon • Sigma • Wireshark • Nmap • Nessus • Burp Suite
-
+**SIEM & Detection:** Splunk • Microsoft Sentinel • ELK/Kibana • Sysmon • Sigma
+**Security Operations & Network Analysis:** Wireshark • tcpdump • Zeek • Snort • Nmap
+**Security Testing:** Nessus • Burp Suite
+**Scripting:** Python • PowerShell • Bash • SQL
