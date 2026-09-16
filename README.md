@@ -23,7 +23,7 @@ I'm particularly interested in Detection Engineering — understanding attacker 
 - **Programming & Scripting:** Python, PowerShell, Bash, JavaScript, SQL
 
 ## 🏆 Certifications & Achievements
-- 🥇 **Top 12% — [WiCyS SANS CyberQuest 2026 CTF]**
+- 🥇 **Top 12% — WiCyS SANS CyberQuest 2026 CTF**
   Solved blue-team challenges involving Windows event analysis, ELK SIEM, AWS/Azure CLI, network forensics, and cryptography.
 - 📜 **[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/T8N5U8X7WNDZ)**  
   Hands-on training in security operations, SIEM, incident response, Linux, SQL, Python, and network security.
