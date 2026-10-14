@@ -34,10 +34,6 @@ I'm particularly interested in Detection Engineering — understanding attacker 
 - 🧩 **Sisterhood of the Traveling Packets CTF | WiCyS, Flare & SANS Institute | 2026**  
   Participated in hands-on challenges involving digital forensics, exploitation, decoding, and investigation of a ransomware group's dark web leak site and OPSEC failures.
 
-## 📚 Currently Learning
-- 🛡️ TryHackMe SOC Level 1
-- 🤖 Cyber Competency Builder — AI Cyber Defense Ops
-
 ## 💻 Technologies & Tools
 
 <p align="left">
